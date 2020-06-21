@@ -1,5 +1,5 @@
 # Pspy
-人にとって意味が分かる、Lisp風スクリプトを[ぽわみスクリプト](https://github.com/penpenpng/powami-script)に変換するPythonモジュールです。リポジトリ内のpowamiフォルダを使用するPythonコードのあるフォルダに配置して使ってください。
+人にとって意味が分かる、Lisp風スクリプトを[ぽわみスクリプト](https://github.com/penpenpng/powami-script)に変換するPythonモジュールです。リポジトリ内のpowamiフォルダを、使用するPythonコードのあるフォルダに配置して使ってください。
 サンプルコードは"powamiTranslator.py"です。
 
 ![イメージ画像](pspy.PNG)
